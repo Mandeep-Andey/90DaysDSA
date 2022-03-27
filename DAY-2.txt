@@ -1,0 +1,7 @@
+DAY 2: 
+
+started learning recursions and backtracking, since I already know the concept behind time and space complexity.
+
+I stated learning recursions and backtracking from Stiver's TUF Recursion Series (Basic to Advanced)
+https://www.youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9 ... link to the series
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ ... stirver's SDE sheet
